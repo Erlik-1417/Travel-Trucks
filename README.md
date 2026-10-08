@@ -2,6 +2,11 @@
 
 English-language desktop camper rental frontend built with Vite, React, Redux Toolkit, React Router, Axios and CSS Modules. Layout targets the supplied 1440 px Figma design.
 
+## Project links
+
+- Source code: [Erlik-1417/Travel-Trucks](https://github.com/Erlik-1417/Travel-Trucks).
+- Live website: not deployed yet. The deployment link will be added after publishing.
+
 ## Features
 
 - Home banner and catalog navigation.
@@ -53,9 +58,21 @@ API prices, ratings, reviews and photos remain live data. Camper photos use cent
 
 ## Deployment
 
-Connect your repository to Vercel or Netlify. Build command: `npm run build`. Output directory: `dist`. Included deployment configuration supports SPA fallback routing.
+Import the GitHub repository into Vercel or Netlify with these project settings:
 
-This adapted copy has not yet been published. Add your actual GitHub and live deployment links after publishing and verify direct route reloads.
+| Setting | Value |
+| --- | --- |
+| Production branch | `main` |
+| Project root | Repository root |
+| Framework | Vite |
+| Build command | `npm run build` |
+| Output directory | `dist` |
+
+The assignment API works without an environment variable. Set `VITE_API_KEY` only when using a different public MockAPI project ID.
+
+Included `vercel.json` and `netlify.toml` support SPA fallback routing. After publishing, open `/catalog` and a valid `/catalog/:id` directly, then reload both pages to verify routing. Also check filtering, favorites after reload and booking form validation on the live website.
+
+Add the confirmed live website URL to the Project links section after deployment.
 
 ## Credits and license
 
@@ -63,4 +80,9 @@ Adapted from [neoversity-woolf/travel-trucks-app](https://github.com/neoversity-
 
 Local adaptations include backend filter corrections, validation, request race protection, loading/error handling, desktop layout and deployment routing.
 
-Submission author: add your name before submission.
+## Author
+
+Adaptation and submission: **Kayra Doğru**.
+
+- [GitHub](https://github.com/Erlik-1417)
+- [LinkedIn](https://www.linkedin.com/in/kayra-dogru)

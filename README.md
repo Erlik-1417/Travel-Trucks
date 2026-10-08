@@ -1,11 +1,11 @@
-#TravelTrucks
+# TravelTrucks
 
 English-language desktop camper rental frontend built with Vite, React, Redux Toolkit, React Router, Axios and CSS Modules. Layout targets the supplied 1440 px Figma design.
 
 ## Project links
 
 - Source code: [Erlik-1417/Travel-Trucks](https://github.com/Erlik-1417/Travel-Trucks).
-- Live website:
+- Live website: [TravelTrucks on Vercel](https://travel-trucks-delta-pink.vercel.app/).
 
 ## Features
 
@@ -72,7 +72,7 @@ The assignment API works without an environment variable. Set `VITE_API_KEY` onl
 
 Included `vercel.json` and `netlify.toml` support SPA fallback routing. After publishing, open `/catalog` and a valid `/catalog/:id` directly, then reload both pages to verify routing. Also check filtering, favorites after reload and booking form validation on the live website.
 
-Add the confirmed live website URL to the Project links section after deployment.
+The Vercel deployment was checked on 8 October 2026: direct catalog/detail navigation and reload, loading more cards, location/transmission filters, empty results, clearing filters, favorites after reload, gallery selection and booking validation/success notification.
 
 ## Credits and license
 

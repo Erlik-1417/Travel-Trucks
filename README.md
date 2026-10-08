@@ -1,6 +1,6 @@
 # TravelTrucks
 
-English-language desktop camper rental frontend built with Vite, React, Redux Toolkit, React Router, Axios and CSS Modules. Layout targets the supplied 1440 px Figma design.
+Built with Vite, React, Redux Toolkit, React Router, Axios and CSS Modules.
 
 ## Project links
 

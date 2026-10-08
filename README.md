@@ -1,4 +1,4 @@
-# TravelTrucks
+## TravelTrucks
 
 Built with Vite, React, Redux Toolkit, React Router, Axios and CSS Modules.
 

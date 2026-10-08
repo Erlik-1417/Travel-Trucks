@@ -1,11 +1,11 @@
-# TravelGods — TravelTrucks
+#TravelTrucks
 
 English-language desktop camper rental frontend built with Vite, React, Redux Toolkit, React Router, Axios and CSS Modules. Layout targets the supplied 1440 px Figma design.
 
 ## Project links
 
 - Source code: [Erlik-1417/Travel-Trucks](https://github.com/Erlik-1417/Travel-Trucks).
-- Live website: not deployed yet. The deployment link will be added after publishing.
+- Live website:
 
 ## Features
 

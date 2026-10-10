@@ -74,14 +74,6 @@ Included `vercel.json` and `netlify.toml` support SPA fallback routing. After pu
 
 The Vercel deployment was checked on 8 October 2026: direct catalog/detail navigation and reload, loading more cards, location/transmission filters, empty results, clearing filters, favorites after reload, gallery selection and booking validation/success notification.
 
-## Credits and license
-
-Adapted from [neoversity-woolf/travel-trucks-app](https://github.com/neoversity-woolf/travel-trucks-app). Original author: yaroslav.kosytsia (2024). The original MIT license is preserved in `LICENSE`.
-
-Local adaptations include backend filter corrections, validation, request race protection, loading/error handling, desktop layout and deployment routing.
-
-## Author
-
 Adaptation and submission: **Kayra Doğru**.
 
 - [GitHub](https://github.com/Erlik-1417)
